@@ -1,5 +1,5 @@
 # Shift-1.2B
-Shift 1.2B is out! Check the README for more details on the patch notes.
+Shift 1.2B is out!
 Patch Notes:
 1.2B:
 - Added 10 more levels
